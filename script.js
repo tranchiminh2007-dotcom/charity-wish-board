@@ -1,9 +1,8 @@
 // Dữ liệu giả lập (Sau này có thể lấy từ Google Sheets)
 const wishes = [
-    { name: "Bé An, 8 tuổi", wish: "Một bộ bút màu sáp", story: "An rất thích vẽ nhưng chỉ có 2 cây bút chì màu ngắn củn." },
-    { name: "Bé Bình, 10 tuổi", wish: "Đôi giày bata size 34", story: "Bình đi bộ 3km đến trường mỗi ngày bằng đôi dép tổ ong đã đứt." },
-    { name: "Bé Chi, 6 tuổi", wish: "Gấu bông nhỏ", story: "Chi mới vào mái ấm, em cần một người bạn nhỏ để ôm khi ngủ." },
-    { name: "Bé Đạt, 12 tuổi", wish: "Sách giáo khoa lớp 6", story: "Đạt học rất giỏi nhưng thư viện trường không đủ sách cho em." }
+    { name: "Bé Châu, 18 tuổi", wish: "Xây được nhà to ở yb", story: "Ước mơ từ bé làm kiến trúc sư xây nhà =))." },
+    { name: "Bé Hiền, 18 tuổi", wish: "Săn được vé vip GD Concert", story: "Fan a GD từ bé." },
+    
 ];
 
 const container = document.getElementById('wish-container');
